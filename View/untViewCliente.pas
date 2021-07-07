@@ -89,7 +89,7 @@ var
   lConfigSMTP: TConfigSMTP;
   lEnviarEmail: TEnviarEmail;
 begin
-  //lUrlArquivo := GerarXML();
+  lUrlArquivo := GerarXML();
 
   lConfigSMTP := TConfigSMTP.Create(self);
   try
