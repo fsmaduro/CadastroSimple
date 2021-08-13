@@ -22,4 +22,3 @@ o	Endereço
 4.	A forma de consumo da API do via Cep, deverá ser utilizando JSON;
 5.	Ao termino do cadastro o usuário deverá enviar um e-mail contendo as informações cadastrais e anexar um arquivo no formato XML com o mesmo conteúdo;
 6.	Os registros devem ficar salvo em memória, não é necessário criar um banco de dados ou arquivo para o armazenamento dos dados;
-7.	Disponibilizar 
